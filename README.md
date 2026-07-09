@@ -5,6 +5,7 @@ portfolios, transaction trends, and fraud indicators.** Built with SQL (SQLite) 
 data querying/aggregation and Streamlit + Plotly for the interactive visual layer.
 
 **Live demo:** https://bank-dashboard-rprmslboybsq3d8ty74fxj.streamlit.app
+
 **Repo:** https://github.com/arpitsharmaaman-ctrl/bank-dashboard
 
 ## Features
