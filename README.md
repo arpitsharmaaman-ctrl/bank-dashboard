@@ -4,8 +4,8 @@ An interactive dashboard for exploring core banking data: **account balances, lo
 portfolios, transaction trends, and fraud indicators.** Built with SQL (SQLite) for
 data querying/aggregation and Streamlit + Plotly for the interactive visual layer.
 
-**Live demo:** _add your deployed link here after step 3 below_
-**Repo:** _add your GitHub repo link here_
+**Live demo:** https://bank-dashboard-rprmslboybsq3d8ty74fxj.streamlit.app
+**Repo:** https://github.com/arpitsharmaaman-ctrl/bank-dashboard
 
 ## Features
 - Filterable KPIs: total customers, total balance, active loans, transaction count, flagged fraud
